@@ -14,7 +14,7 @@
 - 🛡️ **稳定可靠**：优雅处理访问权限、编码问题等异常，避免程序崩溃
 
 ## 📸 界面预览
-<img width="1467" height="1092" alt="image" src="https://github.com/user-attachments/assets/4809f69f-c7dd-4723-8b44-48c43d98cf1b" />
+<img width="1488" height="1092" alt="image" src="https://github.com/user-attachments/assets/c1967e18-32d3-4b26-97cb-24a743a17956" />
 
 
 ## 📋 系统要求
